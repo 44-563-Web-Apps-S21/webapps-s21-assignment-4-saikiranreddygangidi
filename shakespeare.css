@@ -1,0 +1,40 @@
+body{
+    margin:0px;
+}
+p.speech{
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.name{
+    font-family: 'Times New Roman', serif;
+    font-size: 13px;
+}
+
+p.stage-direction{
+    font-family: 'Times New Roman', serif;
+    font-size: 13px;
+    background-color: #7FFFD4;
+}
+
+p.stage-direction:hover{
+    background-color: black;
+    color:white;
+}
+
+.firstlord{
+    color:red;
+
+}
+
+.secondlord{
+color:green;
+}
+
+.king{
+color:orange;
+}
+
+.bertram{
+color:blue;
+}
