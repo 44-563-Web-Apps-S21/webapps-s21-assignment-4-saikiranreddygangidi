@@ -11,7 +11,7 @@ p.speech{
     font-size: 13px;
 }
 .name:hover{
-    text-shadow: 0px 1px 1px Purple, 1px 2px 1px Purple,2px 3px 1px Purple,3px 4px 1px Purple,4px 5px 1px Purple,5px 6px 1px Purple;
+    text-shadow: 0px 1px 1px Peru, 1px 2px 1px Peru,2px 3px 1px Peru,3px 4px 1px Peru,4px 5px 1px Peru,5px 6px 1px Peru;
     border: 10px solid transparent;
     
   padding: 15px;
@@ -65,4 +65,25 @@ tr:nth-child(even){
 th,td{
     text-align:center;
     padding:8px;
+}
+div.navbar li{
+    float:left;
+    border: 1px solid black;
+    padding:5px;
+    background-color: peru;
+    
+}
+div.navbar li:hover{
+    background-color:palegreen;
+    color:white;
+}
+
+ul{
+    float:left;
+    list-style-type: none;
+}
+li a{
+    
+    display:block;
+    text-decoration: none;
 }
