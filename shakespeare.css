@@ -4,27 +4,20 @@ body{
 p.speech{
     font-family: Helvetica, sans-serif;
     font-size: 13px;
+    color:black;
 }
 
 .name{
     font-family: 'Times New Roman', serif;
     font-size: 13px;
+    color:black;
 }
-.name:hover{
-    text-shadow: 0px 1px 1px Peru, 1px 2px 1px Peru,2px 3px 1px Peru,3px 4px 1px Peru,4px 5px 1px Peru,5px 6px 1px Peru;
-    border: 10px solid transparent;
-    
-  padding: 15px;
-  
-  border-image:url(border.png) 20% round;
-  
-    
-   
-}
+
 p.stage-direction{
     font-family: 'Times New Roman', serif;
     font-size: 13px;
     background-color: #7FFFD4;
+    color:black;
 }
 
 p.stage-direction:hover{
@@ -47,6 +40,20 @@ color:orange;
 
 .bertram{
 color:blue;
+}
+
+
+
+.name:hover{
+    text-shadow: 0px 1px 1px Peru, 1px 2px 1px Peru,2px 3px 1px Peru,3px 4px 1px Peru,4px 5px 1px Peru,5px 6px 1px Peru;
+    border: 10px solid transparent;
+    
+  padding: 15px;
+  
+  border-image:url(border.png) 20% round;
+  
+    
+   
 }
 table{
     margin-left:30px;
